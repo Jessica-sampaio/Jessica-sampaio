@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao perfil Jessica-sampaio
- 😁
+## Bem-vindo(a) ao perfil Jessica-sampaio 😁
 
  <div>
    <a href="https://github.com/Jessica-sampaio">
